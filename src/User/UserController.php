@@ -166,7 +166,7 @@ class UserController extends \Anax\MVC\CControllerBasic
         
         $edit = false;
         $loggedIn = $this->users->getLoggedInUser();
-        if($loggedIn->id === $id) {
+        if($loggedIn->id == $id) {
             $edit = true;
         }
         $user = $this->users->find($id);
