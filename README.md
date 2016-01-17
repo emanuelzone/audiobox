@@ -23,7 +23,7 @@ det måste göras vissa ändringar i .htaccess filen så den stämmer för din a
 * phpmvc-bth/app/config/config_mysql.php
 * config_with_app.php
 
-Efter det så anger du adressen phpmvh-bth/webroot/dbsetup i din webbläsare för att köra ett script som installerar databastabellerna på din server.
+Efter det så anger du adressen audiobox/webroot/dbsetup i din webbläsare för att köra ett script som installerar databastabellerna på din server.
 
 Klart! :)
 
