@@ -1,5 +1,7 @@
 <?php
 
+// Database setup
+
 return [
     'dsn'             => "dsn?",
     'username'        => "username?",
