@@ -7,7 +7,7 @@ Audiobox är ett projektarbete som är skapat i kursen phpmvc på Blekinges Tekn
 
 Klona ner projektet till din www-mapp:
 
-* 'git clone https://github.com/emanuelzone/phpmvc-bth.git'
+* git clone 'https://github.com/emanuelzone/phpmvc-bth.git'
 
 Ställ dig sedan i projektmappen och installera dependencies:
 
