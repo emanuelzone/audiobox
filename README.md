@@ -1,7 +1,7 @@
 AUDIOBOX
 =========
 ## Om AUDIOBOX
-Audiobox är ett projektarbete som är skapat i kursen phpmvc på Blekinges Tekniska Högskola av Martin Emanuelsson. Temat för sidan är musik med inriktning progressive house och trance. Sidan ska efterlikna en blogg där man kan skapa sin egna användare och ställa frågor, kommentera med mera. Vill man inte skapa sin egna användare så kan man endast läsa frågorna och kommentarerna men inte skriva och kommentera själv.
+Audiobox är ett projektarbete som är skapat i kursen phpmvc på Blekinges Tekniska Högskola av Martin Emanuelsson. Temat för sidan är musik med inriktning progressive house och trance. Sidan ska efterlikna en blogg där man kan skapa sin egna användare och ställa frågor, kommentera med mera. Vill man inte skapa sin egna användare så kan man endast läsa frågorna och kommentarerna men inte skriva och kommentera själv. Temat är byggt med hjälp av Twitter Bootstrap.
 
 ## Enkel installation
 
