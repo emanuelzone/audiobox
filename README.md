@@ -15,7 +15,7 @@ Ställ dig sedan i projektmappen och installera dependencies:
 
 ## htaaccess
 
-det måste göras vissa ändringar i .htaccess filen så den stämmer för din adress/webroot. Du finner filen i phpmvc-bth/webroot/.htaccess
+det måste göras vissa ändringar i .htaccess filen så den stämmer för din adress/webroot. Du finner filen i audiobox/webroot/.htaccess
 
 ## Setup DB
 
